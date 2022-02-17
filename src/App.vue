@@ -3,7 +3,7 @@
 </template>
 
 <script setup lang="ts">
-const name = '<strong>Jean</strong>';
+const name = '<i>Jean</i>';
 </script>
 
 <style></style>
